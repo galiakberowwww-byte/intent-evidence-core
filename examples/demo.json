@@ -1,0 +1,9 @@
+{
+  "intent": {
+    "project_id": "SYNTHETIC-SHOP",
+    "goal": "Add a validation rule for synthetic orders."
+  },
+  "evidence_refs": ["demo:order-contract"],
+  "scope_paths": ["examples/order_validation.json"],
+  "requested_writes": []
+}
