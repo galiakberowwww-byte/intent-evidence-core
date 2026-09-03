@@ -1,5 +1,7 @@
 # Intent Evidence Core
 
+[![CI](https://github.com/galiakberowwww-byte/intent-evidence-core/actions/workflows/ci.yml/badge.svg)](https://github.com/galiakberowwww-byte/intent-evidence-core/actions/workflows/ci.yml)
+
 A small, dependency-free reference implementation of a governed execution kernel for AI-assisted work.
 
 It is built around one idea: **an AI result is not a durable fact or an authorized change just because a model produced it**.
